@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McClarenL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ 
+-
+-
+- 
 - 📫 mac.lyons@infascination.com 
 
 <!---
